@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "Spark安装与WordCount实验指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Spark安装与WordCount实验指南"
             }
           }
         ],
@@ -213,19 +213,19 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "cedd72a2e9d2505e",
+  "active": "fc69e0e19fdeb8fd",
   "lastOpenFiles": [
-    "Git教程.md",
-    "未命名.md",
-    "你好.md",
-    "Gemini_CLI_使用指南.md",
-    "Gemini_CLI_高级功能详解.md",
-    "软件设计师（计算机网络）.pdf",
-    "计算机网络期末复习试卷.md",
+    "Spark基础期末考查报告.pdf",
+    "Spark安装与WordCount实验指南.md",
     "Linux命令大全.md",
     "Java集合框架.pdf",
-    "Spark安装与WordCount实验指南.md",
-    "Spark基础期末考查报告.pdf",
+    "Git教程.md",
+    "Gemini_CLI_使用指南.md",
+    "Gemini_CLI_高级功能详解.md",
+    "未命名.md",
+    "你好.md",
+    "软件设计师（计算机网络）.pdf",
+    "计算机网络期末复习试卷.md",
     "未命名.base",
     "未命名.canvas",
     "文档/计算机网络基础总结.md",
