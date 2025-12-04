@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git教程.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git教程"
+              "title": "未命名"
             }
           }
         ],
@@ -213,21 +213,21 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "fc69e0e19fdeb8fd",
+  "active": "cedd72a2e9d2505e",
   "lastOpenFiles": [
+    "Git教程.md",
+    "未命名.md",
     "你好.md",
     "Gemini_CLI_使用指南.md",
     "Gemini_CLI_高级功能详解.md",
     "软件设计师（计算机网络）.pdf",
     "计算机网络期末复习试卷.md",
-    "Git教程.md",
     "Linux命令大全.md",
     "Java集合框架.pdf",
     "Spark安装与WordCount实验指南.md",
     "Spark基础期末考查报告.pdf",
     "未命名.base",
     "未命名.canvas",
-    "未命名.md",
     "文档/计算机网络基础总结.md",
     "文档/蓝桥杯训练营.md",
     "文档/Gemini cli安装配置过程.md",
