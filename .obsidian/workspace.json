@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gemini_CLI_高级功能详解.md",
+                "file": "Git教程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gemini_CLI_高级功能详解"
+              "title": "Git教程"
             }
           }
         ],
@@ -216,13 +216,14 @@
   "active": "cedd72a2e9d2505e",
   "lastOpenFiles": [
     "Gemini_CLI_使用指南.md",
-    "Linux命令大全.md",
-    "Git教程.md",
-    "Java集合框架.pdf",
+    "Gemini_CLI_高级功能详解.md",
     "软件设计师（计算机网络）.pdf",
+    "计算机网络期末复习试卷.md",
+    "Git教程.md",
+    "Linux命令大全.md",
+    "Java集合框架.pdf",
     "Spark安装与WordCount实验指南.md",
     "Spark基础期末考查报告.pdf",
-    "计算机网络期末复习试卷.md",
     "未命名.base",
     "未命名.canvas",
     "未命名.md",
