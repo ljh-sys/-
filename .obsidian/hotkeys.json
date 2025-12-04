@@ -1,11 +1,29 @@
 {
-  "obsidian-git:commit": [
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "app:open-settings": [],
+  "obsidian-git:push2": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
       "key": "S"
+    }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
     }
   ]
 }
