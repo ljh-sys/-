@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux命令大全.md",
+                "file": "linux/Linux命令大全.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux命令大全.md",
+                "file": "linux/vim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux命令大全"
-            }
-          },
-          {
-            "id": "cedd72a2e9d2505e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux命令大全.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux命令大全"
+              "title": "vim"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 238.5
   },
   "right": {
     "id": "cf34d25b817b60b6",
@@ -224,42 +210,46 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "cedd72a2e9d2505e",
+  "active": "9161d62d23af5ad1",
   "lastOpenFiles": [
-    "java集合算法练习.md",
-    "assets/计算机网络基础总结",
-    "assets",
+    "linux/redis.md",
+    "linux/Linux命令大全.md",
+    "linux/启动后端.md",
+    "linux/docker初始化mysql.md",
+    "java/mybatisplus常用api.md",
+    "java/java集合算法练习.md",
+    "java/分页返回方法.md",
+    "java/Java集合框架.pdf",
+    "git.md",
+    "前端/插件/插件.md",
+    "跨域问题解决.md",
     "Gemini_CLI_高级功能详解.md",
+    "linux/wsl.md",
+    "蓝桥杯训练营.md",
+    "计算机网络基础总结.md",
+    "linux/nginx.md",
+    "linux/vim.md",
+    "linux/ubuntu安装docker.md",
+    "linux/开放文件权限.md",
+    "Git教程.md",
+    "java/Java集合框架 1.pdf",
+    "java/分页返回方法.txt",
+    "java/mybatisplus常用api.txt",
+    "java",
+    "跨域问题解决.txt",
+    "git.txt",
+    "前端/插件/插件.txt",
+    "前端/插件",
+    "前端",
     "计算机网络期末复习试卷.md",
     "Gemini_CLI_使用指南.md",
-    "Git教程.md",
-    "Java集合框架.pdf",
-    "Linux命令大全.md",
     "Gemini cli安装配置过程.md",
-    "计算机网络基础总结.md",
     "assets/计算机网络基础总结/file-20251205183045916.png",
     "assets/计算机网络基础总结/file-20251205183045907.png",
-    "文档/assets/计算机网络基础总结",
-    "文档/assets",
-    "蓝桥杯训练营.md",
     "未命名.md",
-    "软件设计师（计算机网络）.pdf",
     "你好.md",
     "Spark安装与WordCount实验指南.md",
-    "Spark基础期末考查报告.pdf",
-    "未命名.base",
     "未命名.canvas",
-    "文档/创建链接.md",
-    "[2072300290]Spark技术(Spark基础)-期末考查报告.pdf",
-    "Git_Guide.md",
-    "文档/下载JDK.md",
-    "蓝桥杯训练营.md",
-    "文档",
-    "下载JDK.md",
-    "Gemini cli安装配置过程.md",
-    "创建链接.md",
-    "2025-11-23.md",
-    "未命名 1.canvas",
-    "欢迎.md"
+    "未命名 1.canvas"
   ]
 }
