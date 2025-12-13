@@ -9,4 +9,7 @@ call git add .
 set "timestamp=%date% %time%"
 call git commit -m "%timestamp%"
 call git push origin main
+echo ==============================
+echo 提交成功！
+echo ==============================
 pause
